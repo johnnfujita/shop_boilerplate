@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39fb68f3-16e9-4b0a-b03d-76819f269acf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/microshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/microshop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/microshop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ejzo7HOiPcgTwRZo9SifeYtIeB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39fb68f3-16e9-4b0a-b03d-76819f269acf" name="Default Changelist" comment="" />
+      <created>1594849961878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594849961878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="1286" width="374" height="354" key="FileChooserDialogImpl" timestamp="1594865038393">
+      <screen x="211" y="1080" width="1360" height="768" />
+    </state>
+    <state x="724" y="1286" width="374" height="354" key="FileChooserDialogImpl/67.27.1853.1053/211.1080.1360.768@211.1080.1360.768" timestamp="1594865038393" />
+    <state x="766" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/211.1080.1360.768@67.27.1853.1053" timestamp="1594850045897" />
+    <state x="516" y="1118" key="SettingsEditor" timestamp="1594865224503">
+      <screen x="211" y="1080" width="1360" height="768" />
+    </state>
+    <state x="516" y="1118" key="SettingsEditor/67.27.1853.1053/211.1080.1360.768@211.1080.1360.768" timestamp="1594865224503" />
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053/211.1080.1360.768@67.27.1853.1053" timestamp="1594850058752" />
+  </component>
+</project>
