@@ -8,6 +8,12 @@ verify_ssl = true
 [packages]
 django = "==3.0.*"
 pillow = "==7.0.0"
+celery = "==4.4.2"
+flower = "==0.9.3"
+braintree = "==3.59.0"
+weasyprint = "==51"
+django-rosetta = "==0.9.3"
+redis = "==3.4.1"
 
 [requires]
 python_version = "3.7"

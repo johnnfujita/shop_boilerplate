@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-20 20:48-0300\n"
+"PO-Revision-Date: 2020-07-20 23:55+0000\n"
+"Last-Translator: b'  <admin@admin.com>'\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Translated-Using: django-rosetta 0.9.3\n"
+
+#: cart/forms.py:8
+msgid "Quantity"
+msgstr "Quantidade"
+
+#: coupons/forms.py:6
+msgid "Coupon"
+msgstr "Cupom"
+
+#: microshop/settings.py:127
+msgid "English"
+msgstr "Inglês"
+
+#: microshop/settings.py:128
+msgid "Portuguese"
+msgstr "Português"
+
+#: microshop/urls.py:10
+msgid "admin/"
+msgstr "admin/"
+
+#: microshop/urls.py:11
+msgid "cart/"
+msgstr "carrinho/"
+
+#: microshop/urls.py:12
+msgid "orders/"
+msgstr "pedidos/"
+
+#: microshop/urls.py:13
+msgid "payment/"
+msgstr "pagamento/"
+
+#: microshop/urls.py:14
+#, fuzzy
+#| msgid "Coupon"
+msgid "coupons/"
+msgstr "cupons/"
+
+#: microshop/urls.py:15
+msgid "rosetta/"
+msgstr ""
+
+#: payment/urls.py:7
+msgid "process/"
+msgstr "processamento/"
+
+#: payment/urls.py:8
+msgid "done/"
+msgstr "finalizado/"
+
+#: payment/urls.py:9
+msgid "canceled/"
+msgstr "cancelado/"
+
+#: shop/templates/shop/base.html:7 shop/templates/shop/base.html:12
+msgid "My shop"
+msgstr "Minha Loja"
+
+#: shop/templates/shop/base.html:17
+msgid "Language"
+msgstr "Idioma"
+
+#: shop/templates/shop/base.html:35
+msgid "Your cart"
+msgstr "Carrinho"
+
+#: shop/templates/shop/base.html:37
+#, python-format
+msgid ""
+"\n"
+"              %(items)s item, $%(total)s\n"
+"              "
+msgid_plural ""
+"\n"
+"              %(items)s items, $%(total)s\n"
+"              "
+msgstr[0] ""
+"\n"
+"%(items)s produto, $%(total)s"
+msgstr[1] ""
+"\n"
+"%(items)s produtos, $%(total)s"
+
+#: shop/templates/shop/base.html:44
+msgid "Your cart is empty."
+msgstr "Carrinho Vazio"
+
+#: shop/templates/shop/product/detail.html:22
+msgid "Add to cart"
+msgstr "Adicione ao carrinho"
